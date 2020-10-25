@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             protected void onExtractionComplete(SparseArray<YtFile> sparseArray, VideoMeta videoMeta) {
                 if (sparseArray != null) {
-                    playVideo(sparseArray.get(17).getUrl());
+                    playVideo(sparseArray.get(22).getUrl());
                 }
             }
         };

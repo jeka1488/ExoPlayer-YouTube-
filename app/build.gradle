@@ -24,7 +24,7 @@ android {
 
 dependencies {
     // For youtube Url Extractor
-    implementation 'com.github.HaarigerHarald:android-youtubeExtractor:v1.7.0'
+    implementation 'com.github.HaarigerHarald:android-youtubeExtractor:v2.1.0'
     // ExoPlayer
     implementation 'com.google.android.exoplayer:exoplayer:2.7.3'
 
